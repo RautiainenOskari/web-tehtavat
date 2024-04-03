@@ -1,7 +1,7 @@
 <html>
   <head>
     <link rel="stylesheet" type="text/css" href="styles.css">
-    <title>GitHub Pages Sivuni</title>
+    <title>Viikko 2</title>
 </head>
   <body>
 <h1>Tehtävä 2</h1>
