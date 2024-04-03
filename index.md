@@ -9,7 +9,7 @@
     <p class="container">Tämä on ensimmäinen GitHub Pages -teksti.</p>
     <ul>
         <li>Viikko 1</li>
-        <li><p><a href="vko2.md">Viikko 2</a></p></li>
+        <li><p><a href="vko2.html">Viikko 2</a></p></li>
     </ul>
 </body>
 </html>
