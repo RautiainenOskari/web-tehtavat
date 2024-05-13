@@ -27,6 +27,7 @@
         <li><p><a href="https://rautiainenoskari.github.io/web-tehtavat/vk3/index.html">Viikko 3</a></p></li>
         <li><p><a href="https://rautiainenoskari.github.io/web-tehtavat/vk4/">Viikko 4</a></p></li>
         <li><p><a href="vko5.html">Viikko 5</a></p></li>
+        <li><p><a href="https://rautiainenoskari.github.io/web-tehtavat/vk6/">Viikko 6</a></p></li>
     </ul>
 </body>
 </html>
